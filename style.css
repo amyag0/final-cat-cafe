@@ -1,0 +1,193 @@
+body{
+    background-color: #ffcdf8;
+    margin:20px;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+} 
+
+#cafe-title{
+    font-size: 55px;
+    font-weight: 100px;
+    text-align: center;
+    color:#9999ff;
+}
+
+#cat-cafe{
+    margin-left:auto;
+    margin-right:auto;
+    position: static;
+    background-image: url('https://s3.amazonaws.com/dailyorange/wp-content/uploads/2020/09/30210112/Young-Bin-Lee_CP_PawsitiviteaCafe_4.jpg');
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:1200px;
+    height:600px;
+    border-color: #ccccff;
+    border-style: solid;
+}
+
+#Mici{
+    position:relative;
+    height: 45px;
+    width:auto;
+    top: 170px;
+    left: 90px;
+}
+
+#Fatsy{
+    position:relative;
+    height: 47px;
+    width:auto;
+    top: 160px;
+    left: 90px;
+}
+
+#Qorri{
+    position:relative;
+    height: 120px;
+    width:auto;
+    top: 330px;
+    left: 160px; 
+}
+
+#Muffin{
+    position:relative;
+    height: 120px;
+    width:auto;
+    top: 350px;
+    left: 485px; 
+}
+
+#Moon{
+    position:relative;
+    height: 120px;
+    width:auto;
+    top: 250px;
+    left: 640px; 
+}
+
+#Riley{
+    position:relative;
+    height: 180px;
+    width:auto;
+    top: 395px;
+    right: 310px;
+}
+
+#cat-collection{
+    background-size: contain;
+    border-style: solid;
+    border-color: #a4caec;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 15px;
+    display: table;
+}
+
+h2.cat-card-stuff{
+    color:#b3b3ff;
+}
+
+div.cat-card-stuff{
+    font-family: Consolas, monaco, monospace;
+}
+
+span.cat-card-stuff{
+    margin-top: 20px;
+    position: relative;
+    font-size: 15px; 
+}
+
+.card {
+    display: table-cell;
+    border: solid;
+    border-color: #ccccff;
+    padding: 20px;
+    margin:auto;
+    text-align: center;
+    background-size: contain;
+    background-image: url('https://www.seekpng.com/png/full/26-265409_cat-paw-print-pink.png');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-color: white;
+    height: 450px;
+    width:200px;
+    
+
+}
+.card-hover{
+    display: table-cell;
+    border: solid;
+    border-color: #ccccff;
+    padding: 20px;
+    margin:auto;
+    text-align: center;
+    background-size: contain;
+    background-image: url('https://www.seekpng.com/png/full/26-265409_cat-paw-print-pink.png');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-color: white;
+    height: 450px;
+    width:200px;
+}
+.card-hover:hover{
+    display: table-cell;
+    border: solid;
+    border-color: #a4caec;
+    padding: 20px;
+    margin:auto;
+    text-align: center;
+    background-size: contain;
+    background-image: url('https://www.seekpng.com/png/full/26-265409_cat-paw-print-pink.png');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-color: #ccefff;
+    height: 450px;
+    width:200px;
+}
+
+.cat-card-stuff{
+    border: solid;
+    border-color: #ccccff;
+    padding: 10px 5px;
+    margin:7px;
+
+}
+
+.like-button{
+    background-color:#ccefff ;
+}
+
+img{
+    max-height:200px;
+    width:auto; 
+}
+
+#comment-heading{
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    color:#9999ff;
+    
+}
+#comment-section{
+    border-color:#ccccff;
+    border-style: double;
+    border-width: 5px;
+    background-size: contain;
+    min-block-size: auto;
+    margin-top: 15px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 500px;
+    background-color: #ccefff;
+    padding:15px;
+    text-align: center;
+
+}
+
+.comment-input{
+    background-color: #e6e6ff;
+    color:#ccccff;
+}
+
+.comment-button{
+    background-color: #ccccff ;
+}
